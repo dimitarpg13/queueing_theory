@@ -1,4 +1,4 @@
-# Recourses on Queueing Theory and Queuing Networks
+# Resourse on Queueing Theory and Queuing Networks
 
 ## Books
 
