@@ -1,2 +1,1 @@
-# queuing_theory
-Queueing Theory and Stochastic Networks
+# A Resource on Queueing Theory and Stochastic Networks
