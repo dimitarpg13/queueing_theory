@@ -8,6 +8,12 @@
 
 [Introduction to Queueing Theory and Stochastic Teletraffic Models, Moshe Zukerman, 2023](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/books/Introduction_to_Queueing_Theory_and_Stochastic_Teletraffic_Models_Zuckerman_2023.pdf)
 
+[Queueing Networks and Markov Chains, Guenter Bolch, Stephan Greiner, Herman de Meer, Kishor Triverdi, 1998](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/books/Queueing_Networks_And_Markov_Chains-Modelling_And_Performance_Evaluation_With_Computer_Science_Applications_Bolch_1998.pdf)
+
+[Queueing Modeling Fundamentals, Ng Chee-Hock et al, 2008](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/books/Queuing_Modeling_Fundamentals_Chee-Hock_2008.pdf)
+
+[Brownian Motion and Stochastic Flow Systems, J. Michael Harrison, 1985](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/books/Brownian_Motion_and_Stochastic_Flow_Systems_Harrison_1985.pdf)
+
 ## articles
 
 ### Little's Law
