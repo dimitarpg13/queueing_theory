@@ -33,3 +33,7 @@
 
 [Reversibility and Stochastic Processes, Frank Kelly, 1979](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/books/Reversibility_and_Stochastic_Processes_Kelly_1979.pdf)
 
+[Dynamic Programming and Markov Processes, Ronald A. Howard, 1960](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/books/1960-howard-dynamicprogrammingmarkovprocesses.pdf)
+
+[Markov Processes: Theorems and Problems, Evgeniy Dinkin, Aleksandr Yushkevich, 1969](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/books/MarkovProcessesDynkin1969.pdf)
+
