@@ -26,3 +26,4 @@
 [Little's Law as viewed on its 50th anniversary, John D.C. Little, Operations Research, Vol. 59, No. 3, 2011](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/articles/Littles_law/little_anniversary_paper.pdf)
 
 ### Burke's Theorem
+[The Output of a Queueing System, Paul J. Burke,  Operations Research Vol. 4, No. 6, 1956](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/articles/Burkes_theorem/The_Output_of_Queueing_System_Burke_1956.pdf)
