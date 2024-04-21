@@ -23,5 +23,6 @@
 ## articles
 
 ### Little's Law
+[Little's Law as viewed on its 50th anniversary, John D.C. Little, Operations Research, Vol. 59, No. 3, 2011](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/articles/Littles_law/little_anniversary_paper.pdf)
 
 ### Burke's Theorem
