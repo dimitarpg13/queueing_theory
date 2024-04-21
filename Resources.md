@@ -18,6 +18,8 @@
 
 [Probability and Statistics with Reliability, Queueing and Computer Science Applications, Kishor Trivedi, 2016](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/books/probability-and-statistics-with-reliability-queueing-and-computer-science-applications-2ed.pdf)
 
+[Scheduling and Control of Queueing Networks, Gideon Weiss, 2022](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/books/scheduling-and-control-of-queueing-networks-institute-of-mathematical-statistics-textbooks-series-number-14.pdf)
+
 ## articles
 
 ### Little's Law
