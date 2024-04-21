@@ -12,6 +12,8 @@
 
 [Queueing Modeling Fundamentals, Ng Chee-Hock et al, 2008](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/books/Queuing_Modeling_Fundamentals_Chee-Hock_2008.pdf)
 
+[An Introduction to Queueing Theory, U. Narayan Bhat, 2008](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/books/introduction_to_queueing_theory_bhat_2008.pdf)
+
 [Brownian Motion and Stochastic Flow Systems, J. Michael Harrison, 1985](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/books/Brownian_Motion_and_Stochastic_Flow_Systems_Harrison_1985.pdf)
 
 ## articles
