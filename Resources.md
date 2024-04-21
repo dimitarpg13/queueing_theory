@@ -16,6 +16,8 @@
 
 [Brownian Motion and Stochastic Flow Systems, J. Michael Harrison, 1985](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/books/Brownian_Motion_and_Stochastic_Flow_Systems_Harrison_1985.pdf)
 
+[Probability and Statistics with Reliability, Queueing and Computer Science Applications, Kishor Trivedi, 2016](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/books/probability-and-statistics-with-reliability-queueing-and-computer-science-applications-2ed.pdf)
+
 ## articles
 
 ### Little's Law
