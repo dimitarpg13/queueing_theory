@@ -27,3 +27,9 @@
 
 ### Burke's Theorem
 [The Output of a Queueing System, Paul J. Burke,  Operations Research Vol. 4, No. 6, 1956](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/articles/Burkes_theorem/The_Output_of_Queueing_System_Burke_1956.pdf)
+
+### Reversible Stochastic Processes
+[To Reverse a Markov Process, K.L. Chung, John B. Walsh, 1969](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Markov/ToReverseAMarkovProcess_ChungAndWalsh_Stanford.pdf)
+
+[Reversibility and Stochastic Processes, Frank Kelly, 1979](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/books/Reversibility_and_Stochastic_Processes_Kelly_1979.pdf)
+
