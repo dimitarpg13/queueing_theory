@@ -1,0 +1,4 @@
+literature/books/Queueing_Networks_And_Markov_Chains-Modelling_And_Performance_Evaluation_With_Computer_Science_Applications_Bolch_1998.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/probability-and-statistics-with-reliability-queueing-and-computer-science-applications-2ed.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/probability-statistics-and-random-processes-with-queueing-theory-and-queueing-networks-4nbsped.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/scheduling-and-control-of-queueing-networks-institute-of-mathematical-statistics-textbooks-series-number-14.pdf filter=lfs diff=lfs merge=lfs -text
