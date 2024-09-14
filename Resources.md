@@ -20,6 +20,8 @@
 
 [Scheduling and Control of Queueing Networks, Gideon Weiss, 2022](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/books/scheduling-and-control-of-queueing-networks-institute-of-mathematical-statistics-textbooks-series-number-14.pdf)
 
+[Theory of Scheduling, Richard W. Conway, W. Maxwell, L. Miller, Cornell U., 1967](https://github.com/dimitarpg13/queueing_theory/blob/main/literature/books/Theory_of_Scheduling_Conway_1967_Cornell.pdf)
+
 ## articles
 
 ### Little's Law
