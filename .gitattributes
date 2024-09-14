@@ -9,4 +9,4 @@ literature/books/Brownian_Motion_and_Stochastic_Flow_Systems_Harrison_1985.pdf f
 literature/books/IntroToQueueingTheory_Cooper.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/MarkovProcessesDynkin1969.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Reversibility_and_Stochastic_Processes_Kelly_1979.pdf filter=lfs diff=lfs merge=lfs -text
-
+literature/books/Theory_of_Scheduling_Conway_1967_Cornell.pdf filter=lfs diff=lfs merge=lfs -text
