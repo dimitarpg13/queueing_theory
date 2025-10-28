@@ -38,6 +38,8 @@ It contains resource on Queueing Theory and Queueing Networks - various articles
 
  * [Vector Retrieval Techniques and Algorithms](https://github.com/dimitarpg13/vector_db_intro/blob/main/Resources.md)
 
+ * [Retrieval-Augmented Generation Concepts, Architectures and Algorithms](https://github.com/dimitarpg13/rag_architectures_and_concepts/blob/main/Resources.md)
+
  * [Hypothesis Testing, Estimation of Treatment Effects and Generalized Synthetic Control](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/Resources.md)
  
  * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/Resources.md)
