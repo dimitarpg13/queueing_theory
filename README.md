@@ -30,6 +30,8 @@ It contains resource on Queueing Theory and Queueing Networks - various articles
 
  * [Deep Learning and Neural Networks](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/Resources.md)
 
+ * [Geometric Deep Learning](https://github.com/dimitarpg13/geometric_deep_learning/blob/main/Resources.md)
+
  * [Deep Learning for solving Image Processing problems and Generative Tasks](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/Resources.md)
 
  * [Deep Learning Models for Time Series Forecasting problems](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/Resources.md)
